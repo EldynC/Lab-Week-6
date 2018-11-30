@@ -1,7 +1,7 @@
 ## Lab 3
 
 ### App Description
-`TODO://` This is an updated version of the FlashCard App! New additions include: multiple deck of cards, data saving and deleting cards.
+This is an updated version of the FlashCard App! New additions include: multiple deck of cards, data saving and deleting cards.
 
 ### App Walk-though
 
